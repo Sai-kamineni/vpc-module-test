@@ -7,7 +7,7 @@ output "public_subnet_ids" {
 }
 
 # output "az_info" {
-##     value = module.vpc.az_info
+#   value = module.vpc.az_info
 # }
 
 # output "default_vpc_info" {
